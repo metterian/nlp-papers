@@ -6,7 +6,11 @@
 ## Before Pre-trained
 
 - Word2Vec
+  - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 - Seq2Seq
+  - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+- RNN
+  - [Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Network](https://arxiv.org/abs/1808.03314)
 
 ## After Pre-trained
 
